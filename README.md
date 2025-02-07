@@ -38,3 +38,26 @@ Borrow	BorrowID, MemberID, BookID, BorrowDate, DueDate, ReturnDate, FineAmount	P
 1NF (First Normal Form): Ensures atomicity; all attributes contain single values.
 2NF (Second Normal Form): Eliminates partial dependency; each non-key attribute is fully dependent on the primary key.
 3NF (Third Normal Form): Removes transitive dependency; non-key attributes depend only on the primary key.
+
+
+
+
+
+🔹 Database & SQL Skills:
+MySQL Database Management – Creating, updating, and managing databases.
+SQL Queries – Writing queries for CRUD operations (Create, Read, Update, Delete).
+Joins & Relationships – Understanding foreign keys, primary keys, and table relationships.
+Stored Procedures & Triggers – Automating tasks in MySQL.
+Database Normalization – Optimizing the database structure.
+
+🔹 Version Control & Deployment:
+Git & GitHub – Pushing code to a GitHub repository, managing branches.
+Git Bash / CLI – Running Git commands for commits and pushes.
+
+🔹 Development Tools:
+VS Code – Writing and running SQL code inside VS Code.
+SQLTools Extension – Connecting and managing the MySQL database in VS Code.
+
+
+🔹 Debugging & Troubleshooting:
+Database Connectivity Issues – Fixing authentication errors, setting up the correct MySQL driver.
